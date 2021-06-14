@@ -1,0 +1,20 @@
+This programming language should have basic features to print data, read data, take input from user perform arithmetic operations and compressions of value. Currently, it should support only integer and single literal character to store the data. A brief description of main element take makes up the language is as follow:
+1. Basic type of data: integer, char.
+2. Keywords:
+a. Decision statement: if elif else
+b. Looping statement: while
+c. Read data statement: in
+d. Function declaration statement: func
+e. Write data statement: print (print and remain on same line), println (print and move to next line)
+3. Arithmetic Operators: + - * /
+4. Relational operators: < <= > >= = /=
+5. Comments: /* enclose comment in */
+6. Identifier: a letter followed by any number of letters or digits
+7. Numeric constants: only integers
+8. Variable declaration Operator: :
+9. Literal constants: a letter enclosed in single quotes.
+10. Strings: only used in print statements(no need to declare variables for them)
+11. parenthesis, braces, square brackets
+12. Aassignment operator: :=
+13. Input operators: >>
+14. semi colon, colon, comma
