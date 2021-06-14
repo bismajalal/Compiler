@@ -1,0 +1,29 @@
+a='x'
+print("enter number")
+In >>"i"
+println("i")
+i=length
+while"i" GT 0 goto 8
+goto 28
+first=0
+j=1
+while"j" LT "i" goto 12
+goto 16
+print("j")
+temp1=j+1
+j=temp1
+goto 10
+if "j" EQ 1 goto 18
+goto 20
+print("one")
+goto 25
+elif"j" EQ 2 goto 22
+goto 24
+print("two")
+goto 25
+print("others")
+temp2=i-1
+i=temp2
+goto 6
+print("temp is")
+println("temp")
